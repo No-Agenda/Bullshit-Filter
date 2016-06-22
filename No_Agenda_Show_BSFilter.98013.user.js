@@ -2,6 +2,7 @@
 // @name           No Agenda Show BSFilter by PaulTheBookGuy.Com
 // @namespace      No Agenda Show BSFilter PaulTheBookGuy.Com
 // @description    A Website Filter For Listeners Of The No Agenda Podcast
+// @version        1.1
 // ==/UserScript==
 
 (function() {
